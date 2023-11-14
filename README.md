@@ -3,9 +3,7 @@
   <h2>Hello, I'm Gustavo! 👋</h2>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=GustavoMedeirosCa&theme=tokyonight&show_icons=true">
- \* <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMedeirosCa&layout=compact&theme=tokyonight"> *\
  
-
   <img src="https://usagif.com/wp-content/uploads/gif/outerspace-58.gif" alt="Space Gif">
 
   <p>I'm a technology enthusiast passionate about learning and sharing knowledge!</p>

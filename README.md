@@ -2,7 +2,7 @@
   <h1>Welcome to My LinkedIn Profile</h1>
   <h2>Hello, I'm Gustavo! 👋</h2>
 </div>
-  ![my stats](https://github-readme-stats.vercel.app/api?username=GustavoMedeirosCa&show_icons=true&theme=dark)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMedeirosCa)](https://github.com/GustavoMedeirosCa/github-readme-stats)
 <div align="center">
   <img src="https://usagif.com/wp-content/uploads/gif/outerspace-58.gif" alt="Space Gif">
 

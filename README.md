@@ -2,7 +2,7 @@
 
 # Hi, I'm Gustavo Medeiros 👋
 
-### Infrastructure Analyst | Networks & Virtualization | Cloud & DevOps
+### Infrastructure & Cloud Analyst | Networks, Virtualization & DevOps
 
 <p>
   <a href="https://www.linkedin.com/in/gustavo-medeiros-b58635262/">
@@ -14,100 +14,56 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Overview
 
-I'm an Information Systems student and Infrastructure Analyst passionate about technology, infrastructure, cloud computing and automation.
+Infrastructure Analyst with solid hands-on experience in **IT operations, network management, enterprise virtualization, and systems administration**. 
 
-My professional background is mainly focused on **IT infrastructure, networks, virtualization and technical support**, and I'm currently expanding my knowledge toward **Cloud and DevOps**.
+Focused on designing, implementing, and optimizing resilient infrastructure environments. I combine traditional IT expertise with modern **Cloud, Infrastructure as Code (IaC), DevOps practices, and Data Analytics** to drive operational efficiency, high availability, and automation.
 
-I'm particularly interested in understanding how infrastructure, software, data and automation work together to build reliable and scalable environments.
-
-🎓 Information Systems student at **PUC Minas** — 7th semester  
-💻 Infrastructure Analyst  
-🌐 Networks & Virtualization  
-☁️ Currently focusing on Cloud & DevOps  
-📊 Exploring SQL, data analysis and business intelligence  
-🚀 Always building projects to turn theory into practice
+🎓 **Degree:** B.S. in Information Systems — PUC Minas  
+💻 **Role:** Infrastructure Analyst  
+🌐 **Specialization:** Enterprise Networks, Linux/Windows Systems & Virtualization  
+☁️ **Core Stack:** AWS, Terraform, Docker, CI/CD Pipelines  
+📊 **Data & BI:** SQL, PostgreSQL, Operational Performance Dashboards  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack & Domain Expertise
 
-### Infrastructure & Networking
+### ☁️ Cloud, DevOps & Automation
+`AWS` `Terraform (IaC)` `Docker` `Git` `GitHub Actions (CI/CD)` `Linux Administration`
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-</div>
+### 🌐 Infrastructure, Networks & Virtualization
+`Enterprise Networking (VLANs, Routing, Firewalls)` `Hyper-V` `Windows Server / Active Directory` `Troubleshooting & System Diagnostics`
 
-### Cloud & DevOps
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</div>
-
-### Data & Development
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-</div>
+### 🗄️ Data & Development
+`PostgreSQL` `SQL Queries & Optimization` `Power BI` `Python` `JavaScript` `TypeScript`
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Key Projects
 
-I'm currently focusing my studies on:
+### 📊 Logistics & Operations Analytics Engine
+Advanced data engineering and business intelligence project focused on operational efficiency, delivery performance, route incidents, and financial metrics.
 
-- 🐧 Linux & system administration
-- 🗄️ SQL & PostgreSQL
-- ☁️ AWS
-- 🔧 Infrastructure as Code with Terraform
-- 🐳 Docker
-- 🔄 CI/CD
-- 📈 Data analysis & Business Intelligence
-- 📊 Power BI
-- 🌐 Networking & Cloud Architecture
+* **Database Architecture:** Modeled relational structures in **PostgreSQL** for high-volume operational queries.
+* **Insights & BI:** Designed executive dashboards in **Power BI** to monitor real-time delivery performance and downtime metrics.
 
-My goal is to progressively combine my infrastructure background with cloud technologies and automation.
+**Tech Stack:** `PostgreSQL` `SQL` `Power BI` `Git`
 
 ---
 
-## 🚀 Featured Projects
+### ☁️ Automated Cloud Infrastructure (IaC & CI/CD)
+Production-ready cloud architecture designed to automate infrastructure provisioning and application deployment.
 
-### 📊 Operations Analytics
+* **IaC Provisioning:** Automated AWS cloud environments using **Terraform**.
+* **Containerization & CI/CD:** Deployed containerized applications with **Docker** and automated testing/deployment pipelines using **GitHub Actions**.
 
-An operational analytics project built around a fictional transportation company.
-
-The project focuses on using **PostgreSQL and SQL** to investigate operational performance, revenue, customers, deliveries, vehicles and incidents.
-
-**Technologies:**
-
-`PostgreSQL` `SQL` `Power BI` `Git`
-
-> 🚧 Project under development
+**Tech Stack:** `AWS` `Terraform` `Docker` `GitHub Actions`
 
 ---
 
-### ☁️ Cloud Infrastructure Automation
-
-Infrastructure automation project focused on designing and deploying cloud environments using Infrastructure as Code.
-
-**Technologies:**
-
-`AWS` `Terraform` `Docker` `GitHub Actions`
-
-> 🚧 Planned / under development
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -119,19 +75,16 @@ Infrastructure automation project focused on designing and deploying cloud envir
 
 ---
 
-## 🎯 Career Direction
-
-I'm building my career around the intersection of:
+## 🎯 Strategic Focus
 
 ```text
-Infrastructure
-      ↓
-Networking & Virtualization
-      ↓
-Linux
-      ↓
-Cloud
-      ↓
-Automation
-      ↓
-DevOps
+Enterprise Infrastructure & Networks
+          │
+          ▼
+Virtualization & Linux Systems
+          │
+          ▼
+Cloud Architecture (AWS)
+          │
+          ▼
+Infrastructure as Code & CI/CD Automation
